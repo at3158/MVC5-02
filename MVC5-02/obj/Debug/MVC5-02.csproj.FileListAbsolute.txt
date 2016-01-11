@@ -105,3 +105,4 @@ C:\PROJECTS\MVC5-02\MVC5-02\obj\Debug\MVC5-02.dll
 C:\PROJECTS\MVC5-02\MVC5-02\obj\Debug\MVC5-02.pdb
 C:\PROJECTS\MVC5-02\MVC5-02\obj\Debug\MVC5_02.Migrations.InitialCreate.resources
 C:\PROJECTS\MVC5-02\MVC5-02\obj\Debug\MVC5-02.csproj.GenerateResource.Cache
+C:\PROJECTS\MVC5-02\MVC5-02\obj\Debug\MVC5-02.csprojResolveAssemblyReference.cache
